@@ -1,0 +1,1 @@
+import night_mode from "./resources/night_mode.svg";

@@ -1,0 +1,47 @@
+[
+    {
+      "page": 1,
+      "State": "New York",
+      "Country": "America/New_York",
+      "sunrise": "7:19",
+      "sunset": "19:32",
+      "precipitation":[23,29,58,33,20,73,49],
+      "temps":[27,28,28,29,30,29,29,28],
+      "humidity":82,
+      "wind":8,
+      "precipitation_val":1.4,
+      "UV_index":4,
+      "feels_like":30,
+      "rain":42
+    },
+    {
+      "page": 2,
+      "State": "Chennai",
+      "Country": "Asia/Kolkata",
+      "sunrise": "5:38",
+      "sunset": "18:38",
+      "precipitation":[34,56,58,44,12,22,10],
+      "temps":[36,28,28,29,30,29,29,28],
+      "humidity":15,
+      "wind":5,
+      "precipitation_val":0.3,
+      "UV_index":3,
+      "feels_like":40,
+      "rain":22
+    },
+    {
+      "page": 3,
+      "State": "Sydney",
+      "Country": "Australia/Sydney",
+      "sunrise": "7:01",
+      "sunset": "16:55",
+      "precipitation":[20,90,89,99,55,33,40],
+      "temps":[20,28,28,29,30,29,29,28],
+      "humidity":66,
+      "wind":20,
+      "precipitation_val":2.8,
+      "UV_index":2,
+      "feels_like":23,
+      "rain":67
+    }
+]
